@@ -276,3 +276,45 @@ ul a{
     justify-content: space-around;
     
 }
+
+.customer-review .checked{
+    color: orange;
+    
+}
+
+.customer-review h5{
+    font-weight: 500;
+}
+
+.customer-review h6{
+    font-weight: 300;
+}
+
+.customer{
+    margin: 262px 151px 12px 149px;
+}
+
+.customer h2{
+    text-align: center;
+
+}
+
+.design{
+    background-color: #f8f0f0d7;
+    /* border: 1px; */
+    margin-right: 20px;
+    padding: 24px;
+}
+
+.final img{
+    height: 40px;
+    width: 40px;
+    border-radius: 9999px;
+}
+
+.final{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
